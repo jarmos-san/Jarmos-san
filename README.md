@@ -5,14 +5,14 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 #### 👷 Check out what I'm currently working on
 
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/dalal](https://github.com/Jarmos-san/dalal) - An experimental web app to help me track my financial investments (1 day ago)
+- [Jarmos-san/arthika](https://github.com/Jarmos-san/arthika) - An experimental web app to help me track my financial investments (today)
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (1 week ago)
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My resume built with Typst! (1 week ago)
 - [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (4 weeks ago)
 
 #### 🌱 My latest projects
 
-- [Jarmos-san/dalal](https://github.com/Jarmos-san/dalal) - An experimental web app to help me track my financial investments
+- [Jarmos-san/arthika](https://github.com/Jarmos-san/arthika) - An experimental web app to help me track my financial investments
 - [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js
 - [Jarmos-san/resets.css](https://github.com/Jarmos-san/resets.css) - An unopinionated and minimal CSS resets script for maximum cross-browser compatability!
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My resume built with Typst!
