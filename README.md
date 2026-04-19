@@ -4,9 +4,9 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/arthika](https://github.com/Jarmos-san/arthika) - An experimental web app to help me track my financial investments (today)
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (5 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/arthika](https://github.com/Jarmos-san/arthika) - An experimental web app to help me track my financial investments (1 day ago)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (6 days ago)
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My resume built with Typst! (2 weeks ago)
 - [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (1 month ago)
 
@@ -21,7 +21,7 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 #### 📜 My recent blog posts
 
 - [Understanding Pointers in Go: A Practical Guide](https://jarmos.dev/blogs/a-definitive-guide-to-pointers-in-go) (1 month ago)
-- [Why I&#39;m Never Buying an iPhone Again: A Switch to Android for Value and Freedom](https://jarmos.dev/blogs/why-i-m-never-buying-an-iphone-again) (3 months ago)
+- [Why I&#39;m Never Buying an iPhone Again: A Switch to Android for Value and Freedom](https://jarmos.dev/blogs/why-i-m-never-buying-an-iphone-again) (4 months ago)
 - [Building CLI applications with Python&#39;s argparse module.](https://jarmos.dev/blogs/building-cli-apps-with-argparse-from-the-standard-library) (5 months ago)
 - [Lessons Learned from Rebuilding my Personal Website](https://jarmos.dev/blogs/lessons-from-rebuilding-personal-website-from-scratch) (2 years ago)
 - [Should You Use Next.js?](https://jarmos.dev/blogs/should-you-use-nextjs) (4 years ago)
