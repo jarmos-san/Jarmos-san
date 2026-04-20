@@ -5,9 +5,9 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 #### 👷 Check out what I'm currently working on
 
 - [Jarmos-san/arthika](https://github.com/Jarmos-san/arthika) - An experimental web app to help me track my financial investments (today)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (6 days ago)
-- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My resume built with Typst! (2 weeks ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (1 week ago)
+- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My resume built with Typst! (3 weeks ago)
 - [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (1 month ago)
 
 #### 🌱 My latest projects
@@ -30,7 +30,7 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v2026.04.01](https://github.com/Jarmos-san/resume/releases/tag/v2026.04.01), 2 weeks ago) - My resume built with Typst!
 - [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) ([v1.0.0](https://github.com/Jarmos-san/rivu/releases/tag/v1.0.0), 2 months ago) - A modern and type-safe RSS feed generator for Node.js
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v2.0.0](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v2.0.0), 5 months ago) - The source code of my personal website (and digital garden)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v2.0.0](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v2.0.0), 6 months ago) - The source code of my personal website (and digital garden)
 - [Weburz/crisp](https://github.com/Weburz/crisp) ([v1.0.0](https://github.com/Weburz/crisp/releases/tag/v1.0.0), 9 months ago) - A linter for Git commit messages
 
 This self-generating profile page was created with [readme-scribe](https://github.com/muesli/readme-scribe), a FOSS by the amazing [Christian Muehlhaeuser](https://github.com/muesli)!
