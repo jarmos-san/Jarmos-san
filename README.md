@@ -5,10 +5,10 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 #### 👷 Check out what I'm currently working on
 
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (4 days ago)
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (4 days ago)
-- [developersIndia/wiki](https://github.com/developersIndia/wiki) - ✍🏽 The community wiki for r/developersIndia (4 days ago)
-- [Jarmos-san/arthika](https://github.com/Jarmos-san/arthika) - An experimental web app to help me track my financial investments (5 days ago)
+- [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (5 days ago)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (5 days ago)
+- [developersIndia/wiki](https://github.com/developersIndia/wiki) - ✍🏽 The community wiki for r/developersIndia (5 days ago)
+- [Jarmos-san/arthika](https://github.com/Jarmos-san/arthika) - An experimental web app to help me track my financial investments (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jarmos-san/resume-template](https://github.com/Jarmos-san/resume-template) ([v1.0.0](https://github.com/Jarmos-san/resume-template/releases/tag/v1.0.0), 5 days ago) - A resume template built with Typst and meant for technical roles.
+- [Jarmos-san/resume-template](https://github.com/Jarmos-san/resume-template) ([v1.0.0](https://github.com/Jarmos-san/resume-template/releases/tag/v1.0.0), 6 days ago) - A resume template built with Typst and meant for technical roles.
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v2026.04.01](https://github.com/Jarmos-san/resume/releases/tag/v2026.04.01), 4 weeks ago) - My resume built with Typst!
 - [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) ([v1.0.0](https://github.com/Jarmos-san/rivu/releases/tag/v1.0.0), 2 months ago) - A modern and type-safe RSS feed generator for Node.js
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v2.0.0](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v2.0.0), 6 months ago) - The source code of my personal website (and digital garden)
