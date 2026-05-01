@@ -6,8 +6,8 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
 - [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (today)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (today)
 - [Jarmos-san/blogposts](https://github.com/Jarmos-san/blogposts) - A private repository containing individual blog posts I share on my personal website (today)
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (6 days ago)
 - [developersIndia/wiki](https://github.com/developersIndia/wiki) - ✍🏽 The community wiki for r/developersIndia (6 days ago)
 
 #### 🌱 My latest projects
