@@ -4,11 +4,11 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/blogposts](https://github.com/Jarmos-san/blogposts) - A private repository containing individual blog posts I share on my personal website (5 days ago)
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (5 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/blogposts](https://github.com/Jarmos-san/blogposts) - A private repository containing individual blog posts I share on my personal website (6 days ago)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (6 days ago)
 - [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (1 week ago)
-- [developersIndia/wiki](https://github.com/developersIndia/wiki) - ✍🏽 The community wiki for r/developersIndia (1 week ago)
+- [developersIndia/wiki](https://github.com/developersIndia/wiki) - ✍🏽 The community wiki for r/developersIndia (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 📜 My recent blog posts
 
-- [Web Authentication Methods Explained: Pros, Cons, and Best Practices (2026 Guide)](https://jarmos.dev/blogs/a-comprehensive-guide-authentication-in-web-applications) (1 week ago)
+- [Web Authentication Methods Explained: Pros, Cons, and Best Practices (2026 Guide)](https://jarmos.dev/blogs/a-comprehensive-guide-authentication-in-web-applications) (2 weeks ago)
 - [Understanding Pointers in Go: A Practical Guide](https://jarmos.dev/blogs/a-definitive-guide-to-pointers-in-go) (2 months ago)
 - [Why I&#39;m Never Buying an iPhone Again: A Switch to Android for Value and Freedom](https://jarmos.dev/blogs/why-i-m-never-buying-an-iphone-again) (4 months ago)
 - [Building CLI applications with Python&#39;s argparse module.](https://jarmos.dev/blogs/building-cli-apps-with-argparse-from-the-standard-library) (5 months ago)
