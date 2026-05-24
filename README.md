@@ -28,7 +28,7 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 🔭 Latest releases I've contributed to
 
-- [weburz/terox](https://github.com/weburz/terox) ([v0.1.1](https://github.com/weburz/terox/releases/tag/v0.1.1), today) - A CLI tool to scaffold project repositories from prebuilt templates
+- [weburz/terox](https://github.com/weburz/terox) ([v0.1.2](https://github.com/weburz/terox/releases/tag/v0.1.2), today) - A CLI tool to scaffold project repositories from prebuilt templates
 - [jarmos-san/resume-template](https://github.com/jarmos-san/resume-template) ([v1.0.0](https://github.com/jarmos-san/resume-template/releases/tag/v1.0.0), 1 month ago) - A resume template built with Typst and meant for technical roles.
 - [jarmos-san/resume](https://github.com/jarmos-san/resume) ([v2026.04.01](https://github.com/jarmos-san/resume/releases/tag/v2026.04.01), 1 month ago) - My resume built with Typst!
 - [jarmos-san/rivu](https://github.com/jarmos-san/rivu) ([v1.0.0](https://github.com/jarmos-san/rivu/releases/tag/v1.0.0), 3 months ago) - A modern and type-safe RSS feed generator for Node.js
