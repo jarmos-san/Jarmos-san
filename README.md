@@ -4,7 +4,7 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 👷 Check out what I'm currently working on
 
-- [jarmos-san/dotfiles](https://github.com/jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [jarmos-san/dotfiles](https://github.com/jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
 - [jarmos-san/arthika](https://github.com/jarmos-san/arthika) - An experimental web app to help me track my financial investments (2 days ago)
 - [jarmos-san/rivu](https://github.com/jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (6 days ago)
 - [jarmos-san/resume](https://github.com/jarmos-san/resume) - My resume built with Typst! (6 days ago)
