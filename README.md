@@ -4,11 +4,11 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 👷 Check out what I'm currently working on
 
-- [jarmos-san/dotfiles](https://github.com/jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [jarmos-san/jarmos.dev](https://github.com/jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (today)
-- [jarmos-san/blogposts](https://github.com/jarmos-san/blogposts) - A private repository containing individual blog posts I share on my personal website (today)
-- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (2 days ago)
-- [jarmos-san/arthika](https://github.com/jarmos-san/arthika) - An experimental web app to help me track my financial investments (5 days ago)
+- [jarmos-san/dotfiles](https://github.com/jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [jarmos-san/jarmos.dev](https://github.com/jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (1 day ago)
+- [jarmos-san/blogposts](https://github.com/jarmos-san/blogposts) - A private repository containing individual blog posts I share on my personal website (1 day ago)
+- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (3 days ago)
+- [jarmos-san/arthika](https://github.com/jarmos-san/arthika) - An experimental web app to help me track my financial investments (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 📜 My recent blog posts
 
-- [Mastering Go&#39;s context Package: A Complete Guide](https://jarmos.dev/blogs/go-context-package-guide) (today)
+- [Mastering Go&#39;s context Package: A Complete Guide](https://jarmos.dev/blogs/go-context-package-guide) (1 day ago)
 - [A Deep Dive Into Go&#39;s Compile-Time Interface Assertions](https://jarmos.dev/blogs/a-deep-dive-into-go-compile-time-interface-assertions) (3 months ago)
 - [Web Authentication Methods Explained: Pros, Cons, and Best Practices (2026 Guide)](https://jarmos.dev/blogs/a-comprehensive-guide-authentication-in-web-applications) (4 months ago)
 - [Understanding Pointers in Go: A Practical Guide](https://jarmos.dev/blogs/a-definitive-guide-to-pointers-in-go) (6 months ago)
@@ -31,6 +31,6 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 - [jarmos-san/jarmos.dev](https://github.com/jarmos-san/jarmos.dev) ([v2.1.0](https://github.com/jarmos-san/jarmos.dev/releases/tag/v2.1.0), 2 months ago) - The source code of my personal website (and digital garden)
 - [jarmos-san/resume](https://github.com/jarmos-san/resume) ([v2026.07.01](https://github.com/jarmos-san/resume/releases/tag/v2026.07.01), 2 months ago) - My resume built with Typst!
 - [jarmos-san/rivu](https://github.com/jarmos-san/rivu) ([v1.2.1](https://github.com/jarmos-san/rivu/releases/tag/v1.2.1), 3 months ago) - A modern and type-safe RSS feed generator for Node.js
-- [jarmos-san/resume-template](https://github.com/jarmos-san/resume-template) ([v1.0.0](https://github.com/jarmos-san/resume-template/releases/tag/v1.0.0), 4 months ago) - A resume template built with Typst and meant for technical roles.
+- [jarmos-san/resume-template](https://github.com/jarmos-san/resume-template) ([v1.0.0](https://github.com/jarmos-san/resume-template/releases/tag/v1.0.0), 5 months ago) - A resume template built with Typst and meant for technical roles.
 
 This self-generating profile page was created with [readme-scribe](https://github.com/muesli/readme-scribe), a FOSS by the amazing [Christian Muehlhaeuser](https://github.com/muesli)!
