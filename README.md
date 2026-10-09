@@ -4,9 +4,9 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 👷 Check out what I'm currently working on
 
-- [jarmos-san/dotfiles](https://github.com/jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [jarmos-san/blogposts](https://github.com/jarmos-san/blogposts) - A private repository containing individual blog posts I share on my personal website (6 days ago)
-- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (6 days ago)
+- [jarmos-san/dotfiles](https://github.com/jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [jarmos-san/blogposts](https://github.com/jarmos-san/blogposts) - A private repository containing individual blog posts I share on my personal website (1 week ago)
+- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (1 week ago)
 - [jarmos-san/jarmos.dev](https://github.com/jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (1 week ago)
 - [jarmos-san/rivu](https://github.com/jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (3 months ago)
 
@@ -20,7 +20,7 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 📜 My recent blog posts
 
-- [Mastering Go&#39;s context Package: A Complete Guide](https://jarmos.dev/blogs/go-context-package-guide) (6 days ago)
+- [Mastering Go&#39;s context Package: A Complete Guide](https://jarmos.dev/blogs/go-context-package-guide) (1 week ago)
 - [A Deep Dive Into Go&#39;s Compile-Time Interface Assertions](https://jarmos.dev/blogs/a-deep-dive-into-go-compile-time-interface-assertions) (3 months ago)
 - [Web Authentication Methods Explained: Pros, Cons, and Best Practices (2026 Guide)](https://jarmos.dev/blogs/a-comprehensive-guide-authentication-in-web-applications) (5 months ago)
 - [Understanding Pointers in Go: A Practical Guide](https://jarmos.dev/blogs/a-definitive-guide-to-pointers-in-go) (7 months ago)
