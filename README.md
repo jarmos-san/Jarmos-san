@@ -4,10 +4,10 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 👷 Check out what I'm currently working on
 
-- [jarmos-san/dotfiles](https://github.com/jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [jarmos-san/wedding.jarmos.dev](https://github.com/jarmos-san/wedding.jarmos.dev) -  (5 days ago)
-- [jarmos-san/jarmos.dev](https://github.com/jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (6 days ago)
-- [jarmos-san/blogposts](https://github.com/jarmos-san/blogposts) - A private repository containing individual blog posts I share on my personal website (1 week ago)
+- [jarmos-san/dotfiles](https://github.com/jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [jarmos-san/wedding.jarmos.dev](https://github.com/jarmos-san/wedding.jarmos.dev) -  (6 days ago)
+- [jarmos-san/jarmos.dev](https://github.com/jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (1 week ago)
+- [jarmos-san/blogposts](https://github.com/jarmos-san/blogposts) - A private repository containing individual blog posts I share on my personal website (2 weeks ago)
 - [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,8 +20,8 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 📜 My recent blog posts
 
-- [How Non-Technical Founders Build Great Tech Products (Without Writing Code)](https://jarmos.dev/blogs/how-non-technical-founders-build-great-products) (1 week ago)
-- [How Go Interfaces Work Under the Hood](https://jarmos.dev/blogs/how-go-interfaces-work-under-the-hood) (1 week ago)
+- [How Non-Technical Founders Build Great Tech Products (Without Writing Code)](https://jarmos.dev/blogs/how-non-technical-founders-build-great-products) (2 weeks ago)
+- [How Go Interfaces Work Under the Hood](https://jarmos.dev/blogs/how-go-interfaces-work-under-the-hood) (2 weeks ago)
 - [Mastering Go&#39;s context Package: A Complete Guide](https://jarmos.dev/blogs/go-context-package-guide) (3 weeks ago)
 - [A Deep Dive Into Go&#39;s Compile-Time Interface Assertions](https://jarmos.dev/blogs/a-deep-dive-into-go-compile-time-interface-assertions) (4 months ago)
 - [Web Authentication Methods Explained: Pros, Cons, and Best Practices (2026 Guide)](https://jarmos.dev/blogs/a-comprehensive-guide-authentication-in-web-applications) (6 months ago)
