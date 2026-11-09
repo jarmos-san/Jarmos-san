@@ -4,11 +4,11 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 👷 Check out what I'm currently working on
 
-- [jarmos-san/dotfiles](https://github.com/jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (2 days ago)
-- [jarmos-san/rivu](https://github.com/jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (2 days ago)
-- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (3 days ago)
+- [jarmos-san/dotfiles](https://github.com/jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (3 days ago)
+- [jarmos-san/rivu](https://github.com/jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (3 days ago)
+- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (4 days ago)
 - [jarmos-san/wedding.jarmos.dev](https://github.com/jarmos-san/wedding.jarmos.dev) -  (2 weeks ago)
-- [jarmos-san/jarmos.dev](https://github.com/jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (2 weeks ago)
+- [jarmos-san/jarmos.dev](https://github.com/jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,15 +20,15 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 📜 My recent blog posts
 
-- [How Non-Technical Founders Build Great Tech Products (Without Writing Code)](https://jarmos.dev/blogs/how-non-technical-founders-build-great-products) (3 weeks ago)
-- [How Go Interfaces Work Under the Hood](https://jarmos.dev/blogs/how-go-interfaces-work-under-the-hood) (3 weeks ago)
+- [How Non-Technical Founders Build Great Tech Products (Without Writing Code)](https://jarmos.dev/blogs/how-non-technical-founders-build-great-products) (4 weeks ago)
+- [How Go Interfaces Work Under the Hood](https://jarmos.dev/blogs/how-go-interfaces-work-under-the-hood) (4 weeks ago)
 - [Mastering Go&#39;s context Package: A Complete Guide](https://jarmos.dev/blogs/go-context-package-guide) (1 month ago)
 - [A Deep Dive Into Go&#39;s Compile-Time Interface Assertions](https://jarmos.dev/blogs/a-deep-dive-into-go-compile-time-interface-assertions) (4 months ago)
 - [Web Authentication Methods Explained: Pros, Cons, and Best Practices (2026 Guide)](https://jarmos.dev/blogs/a-comprehensive-guide-authentication-in-web-applications) (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jarmos-san/rivu](https://github.com/jarmos-san/rivu) ([v1.3.1](https://github.com/jarmos-san/rivu/releases/tag/v1.3.1), 2 days ago) - A modern and type-safe RSS feed generator for Node.js
+- [jarmos-san/rivu](https://github.com/jarmos-san/rivu) ([v1.3.1](https://github.com/jarmos-san/rivu/releases/tag/v1.3.1), 3 days ago) - A modern and type-safe RSS feed generator for Node.js
 - [jarmos-san/resume](https://github.com/jarmos-san/resume) ([v2026.10.01](https://github.com/jarmos-san/resume/releases/tag/v2026.10.01), 1 month ago) - My resume built with Typst!
 - [jarmos-san/jarmos.dev](https://github.com/jarmos-san/jarmos.dev) ([v2.1.0](https://github.com/jarmos-san/jarmos.dev/releases/tag/v2.1.0), 4 months ago) - The source code of my personal website (and digital garden)
 - [jarmos-san/resume-template](https://github.com/jarmos-san/resume-template) ([v1.0.0](https://github.com/jarmos-san/resume-template/releases/tag/v1.0.0), 6 months ago) - A resume template built with Typst and meant for technical roles.
